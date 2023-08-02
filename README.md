@@ -1,5 +1,7 @@
 <a href="https://saweria.co/yaqie" target="_blank"><img src="https://saweria.co/twitter_card.png" style="height: 200px !important;" ></a>
 
+Donate for support
+
 # Keep It Simple
 
 This package is made with all my heart. made based on personal experience that I use to make my projects much simpler. I hope this package can make my work easier and that of all my friends.
