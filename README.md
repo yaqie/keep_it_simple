@@ -1,7 +1,5 @@
 <a href="https://saweria.co/yaqie" target="_blank"><img src="https://saweria.co/twitter_card.png" style="height: 200px !important;" ></a>
 
-<a href="https://www.buymeacoffee.com/yaqie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 # Keep It Simple
 
 This package is made with all my heart. made based on personal experience that I use to make my projects much simpler. I hope this package can make my work easier and that of all my friends.
@@ -54,3 +52,5 @@ import "package:keep_it_simple/helpers/rupiah.dart";
 
 Text(rupiah(1000).toString());
 ```
+
+<a href="https://www.buymeacoffee.com/yaqie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
