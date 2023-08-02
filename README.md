@@ -1,5 +1,7 @@
+<p float="left">
 <a href="https://saweria.co/yaqie" target="_blank"><img src="https://saweria.co/twitter_card.png" style="height: 150px !important;" ></a>
-
+<a href="https://www.buymeacoffee.com/yaqie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
 Click the image above to donate to always support us
 
 # Keep It Simple
@@ -8,8 +10,10 @@ This package is made with all my heart. made based on personal experience that I
 
 ## Features
 
-- add space for width and height (AddWidth / AddHeight)
-- radius for corner (Corner)
+- [add space for width and height (AddWidth / AddHeight)](#usage-addwidth--addheight)
+- [radius for corner (Corner)](#usage-corner)
+- [format rupiah](#usage-rupiah)
+- [easy snackbar](#usage-snackbar)
 
 ## Usage AddWidth / AddHeight
 
@@ -55,4 +59,20 @@ import "package:keep_it_simple/helpers/rupiah.dart";
 Text(rupiah(1000).toString());
 ```
 
-<a href="https://www.buymeacoffee.com/yaqie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+## Usage snackbar
+
+This function makes it easier for you to call snackbar
+
+```javascript
+import "package:keep_it_simple/keep_it_simple.dart";
+// or
+import "package:keep_it_simple/helpers/snackbar.dart";
+
+await snackBar(context,
+    bgColor: Colors.teal,
+    isFLoating: false,
+    text: 'Success',
+    actionLabel: 'woi', actionPress: () {
+  // do something
+});
+```

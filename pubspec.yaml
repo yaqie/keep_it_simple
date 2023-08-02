@@ -1,7 +1,8 @@
 name: keep_it_simple
 description: This package is made with all my heart. made based on personal experience that I use to make my projects much simpler.
-version: 0.0.8
+version: 0.0.10
 homepage: https://github.com/yaqie/keep_it_simple
+repository: https://github.com/yaqie/keep_it_simple
 
 environment:
   sdk: ">=3.0.3 <4.0.0"
@@ -30,7 +31,13 @@ platforms:
 
 # The following section is specific to Flutter packages.
 flutter:
-
+  plugin:
+    platforms:
+      android:
+        package: com.example.hello
+        pluginClass: HelloPlugin
+      ios:
+        pluginClass: HelloPlugin
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

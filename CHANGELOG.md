@@ -29,3 +29,11 @@
 ## 0.0.8
 
 - update readme.md
+
+## 0.0.9
+
+- update pubspec.yaml
+
+## 0.0.10
+
+- add snackbar & update readme.md
