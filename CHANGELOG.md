@@ -9,3 +9,7 @@
 ## 0.0.3
 
 - uncomment keep_it_simple.dart & add corner component
+
+## 0.0.4
+
+- add rupiah format & update readme.md
