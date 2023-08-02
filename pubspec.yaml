@@ -1,6 +1,6 @@
 name: keep_it_simple
 description: This package is made with all my heart. made based on personal experience that I use to make my projects much simpler.
-version: 0.0.5
+version: 0.0.6
 homepage: https://github.com/yaqie/keep_it_simple
 
 environment:
