@@ -1,6 +1,6 @@
 <a href="https://saweria.co/yaqie" target="_blank"><img src="https://saweria.co/twitter_card.png" style="height: 200px !important;" ></a>
 
-Donate for support
+Click the image above to donate to always support us
 
 # Keep It Simple
 
