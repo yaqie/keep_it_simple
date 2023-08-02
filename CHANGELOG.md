@@ -57,3 +57,11 @@
 ## 0.0.15
 
 - update readme.md
+
+## 0.0.16
+
+- update keep_it_simple.dart
+
+## 0.0.17
+
+- add preview image

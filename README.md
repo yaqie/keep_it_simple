@@ -17,6 +17,7 @@ Click the image above to donate to always support us
 - [format rupiah (rupiah)](#usage-rupiah)
 - [easy snackbar (snackBar)](#usage-snackbar)
 - [simple shimmer (SimpleShimmer)](#usage-simpleshimmer)
+- [preview image (PreviewImage)](#usage-previewimage)
 
 ## Usage AddWidth / AddHeight
 
@@ -101,4 +102,40 @@ const SimpleShimmer(
   looping: 1,
   height: 50,
 ),
+```
+
+## Usage PreviewImage
+
+This widget is used to create a simple shimmer/loading effect.
+
+```javascript
+import "package:keep_it_simple/keep_it_simple.dart";
+// or
+import "package:keep_it_simple/components/preview_image.dart";
+
+// simple way
+TextButton(
+  onPressed: () {
+    Navigator.push(context, MaterialPageRoute(builder: (_) {
+      return const PreviewImage(
+        image: 'https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png',
+      );
+    }));
+  },
+  child: const Text('click to preview')
+)
+// or
+TextButton(
+  onPressed: () {
+    Navigator.push(context, MaterialPageRoute(builder: (_) {
+      return const PreviewImage(
+        iconBackColor: Colors.white,
+        bgColor: Colors.green,
+        appBarColor: Colors.red,
+        image: 'https://docs.flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png',
+      );
+    }));
+  },
+  child: const Text('click to preview')
+)
 ```
