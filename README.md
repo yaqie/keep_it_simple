@@ -1,4 +1,4 @@
-<a href="https://saweria.co/yaqie" target="_blank"><img src="https://saweria.co/twitter_card.png" style="height: 60px !important;" ></a>
+<a href="https://saweria.co/yaqie" target="_blank"><img src="https://saweria.co/twitter_card.png" style="height: 200px !important;" ></a>
 
 <a href="https://www.buymeacoffee.com/yaqie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
