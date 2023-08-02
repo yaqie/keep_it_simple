@@ -37,3 +37,7 @@
 ## 0.0.10
 
 - add snackbar & update readme.md
+
+## 0.0.11
+
+- update readme.md
