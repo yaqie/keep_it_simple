@@ -1,6 +1,6 @@
 name: keep_it_simple
-description: This package is made to make it easier for us in the process of developing applications using Flutter. already available components and functions that you can use according to your needs.
-version: 0.0.17
+description: This package can make it easier for you to develop applications. There are already available functions that you can use according to your needs.
+version: 0.0.18
 homepage: https://github.com/yaqie/keep_it_simple
 repository: https://github.com/yaqie/keep_it_simple
 
@@ -31,15 +31,6 @@ platforms:
   web:
   windows:
 
-# The following section is specific to Flutter packages.
-flutter:
-  plugin:
-    platforms:
-      android:
-        package: com.example.hello
-        pluginClass: HelloPlugin
-      ios:
-        pluginClass: HelloPlugin
   # To add assets to your package, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg

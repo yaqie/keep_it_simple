@@ -65,3 +65,7 @@
 ## 0.0.17
 
 - add preview image
+
+## 0.0.18
+
+- add example
