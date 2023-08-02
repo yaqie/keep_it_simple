@@ -1,10 +1,10 @@
 name: keep_it_simple
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: This package is made with all my heart. made based on personal experience that I use to make my projects much simpler.
+version: 0.0.3
+homepage: https://github.com/yaqie/keep_it_simple
 
 environment:
-  sdk: '>=3.0.3 <4.0.0'
+  sdk: ">=3.0.3 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
