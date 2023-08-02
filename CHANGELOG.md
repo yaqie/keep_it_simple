@@ -13,3 +13,7 @@
 ## 0.0.4
 
 - add rupiah format & update readme.md
+
+## 0.0.5
+
+- update readme.md
