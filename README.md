@@ -1,12 +1,14 @@
+# Keep It Simple
+
+This package is made to make it easier for us in the process of developing applications using Flutter. already available components and functions that you can use according to your needs. I hope this package can make your life easier. Your support and support means a lot to us. Please click the image below to donate. please click saweria for you Indonesian people. best regards from us. Thank You
+
+# Support
+
 <div float="left">
 <a href="https://saweria.co/yaqie" target="_blank"><img src="https://saweria.co/twitter_card.png" style="width: 150px !important;" ></a>
 <a href="https://www.buymeacoffee.com/yaqie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="width: 150px !important;" ></a>
 </div>
 Click the image above to donate to always support us
-
-# Keep It Simple
-
-This package is made with all my heart. made based on personal experience that I use to make my projects much simpler. I hope this package can make my work easier and that of all my friends.
 
 ## Features
 
@@ -14,6 +16,7 @@ This package is made with all my heart. made based on personal experience that I
 - [radius for corner (Corner)](#usage-corner)
 - [format rupiah (rupiah)](#usage-rupiah)
 - [easy snackbar (snackBar)](#usage-snackbar)
+- [simple shimmer (SimpleShimmer)](#usage-simpleshimmer)
 
 ## Usage AddWidth / AddHeight
 
@@ -68,11 +71,34 @@ import "package:keep_it_simple/keep_it_simple.dart";
 // or
 import "package:keep_it_simple/helpers/snackbar.dart";
 
-await snackBar(context,
+// simple way
+snackBar(context, text: 'Hallo');
+// or
+snackBar(context,
     bgColor: Colors.teal,
     isFLoating: false,
     text: 'Success',
-    actionLabel: 'woi', actionPress: () {
+    actionLabel: 'Dismiss', actionPress: () {
   // do something
 });
+```
+
+## Usage SimpleShimmer
+
+This widget is used to create a simple shimmer/loading effect.
+
+```javascript
+import "package:keep_it_simple/keep_it_simple.dart";
+// or
+import "package:keep_it_simple/components/simple_shimmer.dart";
+
+// simple way
+const SimpleShimmer()
+// or
+const SimpleShimmer(
+  bgColor: Colors.black,
+  isCircle: false,
+  looping: 1,
+  height: 50,
+),
 ```

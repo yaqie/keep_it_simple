@@ -41,3 +41,19 @@
 ## 0.0.11
 
 - update readme.md
+
+## 0.0.12
+
+- update readme.md
+
+## 0.0.13
+
+- add simple shimmer
+
+## 0.0.14
+
+- update readme.md
+
+## 0.0.15
+
+- update readme.md

@@ -1,6 +1,6 @@
 name: keep_it_simple
-description: This package is made with all my heart. made based on personal experience that I use to make my projects much simpler.
-version: 0.0.11
+description: This package is made to make it easier for us in the process of developing applications using Flutter. already available components and functions that you can use according to your needs.
+version: 0.0.15
 homepage: https://github.com/yaqie/keep_it_simple
 repository: https://github.com/yaqie/keep_it_simple
 
@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   intl: ^0.18.1
+  shimmer: ^3.0.0
 
 dev_dependencies:
   flutter_test:
