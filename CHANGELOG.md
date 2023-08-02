@@ -21,3 +21,7 @@
 ## 0.0.6
 
 - update readme.md
+
+## 0.0.7
+
+- update readme.md

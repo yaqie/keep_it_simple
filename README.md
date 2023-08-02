@@ -1,3 +1,5 @@
+<a href="https://saweria.co/yaqie" target="_blank"><img src="https://saweria.co/widgets/qr?streamKey=5ff7ceddad06c59f2a2031d7b4f97451"></a>
+
 <a href="https://www.buymeacoffee.com/yaqie" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # Keep It Simple
